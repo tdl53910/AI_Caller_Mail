@@ -1,4 +1,4 @@
-# 🐠 AI Caller Mail - Fish Prank Bot
+# 🐠 AI Caller Mail - Fish Calling Agent
 
 An AI-powered phone calling bot that uses Twilio and OpenAI to make automated calls with customizable personalities. This project features Mail, a tropical fish calling about moving into a pool!
 
