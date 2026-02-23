@@ -1,0 +1,23 @@
+{
+  "name": "ai-calling-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@fastify/formbody": "^8.0.2",
+    "@fastify/websocket": "^11.2.0",
+    "axios": "^1.13.5",
+    "dotenv": "^17.3.1",
+    "fastify": "^5.7.4",
+    "openai": "^6.22.0",
+    "twilio": "^5.12.1",
+    "ws": "^8.19.0"
+  }
+}
